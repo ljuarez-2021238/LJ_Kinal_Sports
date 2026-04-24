@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6eltERPWE8M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Informatica\\Desktop\\Nueva carpeta\\KinalSports\\KinalSports\\KinalSports\\authenthication-service\\auth-service\\src\\AuthService.Domain\\AuthService.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Informatica\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
